@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Local-Net</string>
+    <string name="botonComenzar">Comenzar</string>
+    <string name="bienvenido">¡Bienvenido!</string>
+</resources>

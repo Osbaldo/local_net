@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\CursoAndroidPHP\Local-Net\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="191a03dbe003c72ad4b1965979f2f6f7275ce6ca">
+        <dex dex="C:\CursoAndroidPHP\Local-Net\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_f83ed814ff5162af95b69d9bf3b2c59832dc04d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\CursoAndroidPHP\Local-Net\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\CursoAndroidPHP\Local-Net\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_739415ba331d619a9f5b555d9efda9a2985e594f\classes.dex" />
+    </item>
+
+</items>
